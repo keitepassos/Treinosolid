@@ -1,0 +1,11 @@
+{
+  "name": "Treinosolid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/keitepassos/Treinosolid.git",
+  "author": "keite passos <keitepassos@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
+}
